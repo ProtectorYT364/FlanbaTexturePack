@@ -10,6 +10,6 @@ Texture pack for Flanba
 | Sword |  |
 | Skull |  |
 
-## Scoreboard Logo
 
+## Scoreboard Logo
 To put the logo on the scoreboard, set the objective name to `flanba.sb.logo`.
