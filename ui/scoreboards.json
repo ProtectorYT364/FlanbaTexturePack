@@ -107,7 +107,7 @@
                         {
                             "logo": {
                                 "type": "image",
-                                "texture": "textures/dangthatlogolooksfire",
+                                "texture": "textures/sblogo",
                                 "size": [
                                     66,
                                     21
