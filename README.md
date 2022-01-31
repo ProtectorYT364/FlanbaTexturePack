@@ -1,6 +1,11 @@
 # FlanbaTexturePack
 Texture pack for Flanba
 
-Emojis
+## Emojis
 
-Wave: []
+| Emoji | Copy and Paste Character |
+|-------|--------------------------|
+| Wave |  |
+| Heart |  |
+| Sword |  |
+| Skull |  |
