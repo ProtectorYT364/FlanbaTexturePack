@@ -21,8 +21,8 @@
     {"logo@flanba_loadscreen.logo": {}},
     {"background@flanba_loadscreen.background": {}},
     {"jeb@flanba_loadscreen.jeb": {}},
-    {"savingg@flanba_loadscreen.loadingg": {}},
-    {"savinggg@flanba_loadscreen.loadinggg": {}}
+    {"savingg@flanba_loadscreen.savingg": {}},
+    {"savinggg@flanba_loadscreen.savinggg": {}}
   ]
 },
 
