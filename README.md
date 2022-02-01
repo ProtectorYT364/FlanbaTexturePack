@@ -9,6 +9,15 @@ Texture pack for Flanba
 | Heart |  |
 | Sword |  |
 | Skull |  |
+| Moon |  |
+| Red circle |  |
+| Blue circle |  |
+| Grey circle |  |
+| Trophy |  |
+| Clock |  |
+| Mountain |  |
+| Controller |  |
+| People |  |
 
 
 ## Scoreboard Logo
