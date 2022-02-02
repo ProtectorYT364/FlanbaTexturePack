@@ -95,8 +95,8 @@
             ],
             "variables": [
                 {
-                    "requires": "($pocket_screen)",
-                    "$scoreboard_offset": [0, 40],
+                    "requires": "($is_ios or $is_android)",
+                    "$scoreboard_offset": [0, 20],
                     "$scoreboard_alignment": "top_middle"
                 }
             ]
