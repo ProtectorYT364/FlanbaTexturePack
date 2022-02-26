@@ -1,5 +1,6 @@
 # FlanbaTexturePack
 Texture pack for Flanba
+By devgocri yey
 
 ## Emojis
 
